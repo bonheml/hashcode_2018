@@ -108,5 +108,6 @@ venv.bak/
 # idea configuration
 .idea/
 
-# Hashcode input files
+# Hashcode files
 data/
+*.out
